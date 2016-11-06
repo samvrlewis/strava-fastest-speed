@@ -10,8 +10,12 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "keen-ui": "^0.8.9",
-    "vue": "^2.0.1"
+    "vue": "^2.0.5",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.0.1",
+    "vue-template-compiler": "^2.0.5"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
